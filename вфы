@@ -1,0 +1,30 @@
+.advantages {
+    position: flex;
+    background-color: #447282; /* Цвет фона блока */
+    color: #fff; /* Цвет текста */
+    padding: 50px; /* Внутренние отступы */
+    text-align: center;
+    border-radius: 15px; /* Закругленные углы */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Тень для выделения от фона */
+}
+.artyk1 img{
+    float: left;
+    width: 250px;
+}
+.artyk2 img{
+    float: right;
+    width: 250px;
+}
+.advantages h2 {
+    font-size: 36px;
+}
+
+.advantages p {
+    font-size: 20px;
+    line-height: 1.5;
+}
+.zakaz{
+    margin-top: 5%;
+    margin-right: 35%;
+    margin-left: 35%;
+}
